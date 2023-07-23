@@ -59,7 +59,7 @@
     "jquery-param": "^0.2.0",
     "jsplumb": "2.1.4",
     "lodash": "^4.17.14",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "mousetrap": "^1.6.1",
     "normalizr": "^2.1.0",
